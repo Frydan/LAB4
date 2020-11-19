@@ -1,1 +1,2 @@
 Nowy plik a.txt
+Nowa linia
